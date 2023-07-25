@@ -1,0 +1,6 @@
+#ldap_server = '192.168.100.90'
+ldap_server = 'tattelecom.ttc'
+damage_odbc = 'SQL Server'
+#damage_odbc = 'ODBC Driver 17 for SQL Server'
+home_dir = 'C:/Users/Mikhail/PycharmProjects'
+#home_dir = '/opt'
